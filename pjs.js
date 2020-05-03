@@ -59,6 +59,7 @@ var codeExamplesGWC = [];
 
 $(document).ready(function()
 {
+
   //PHOTOGRAPHY PAGE IMAGE RENDER - BASED ON ALBUM CHOSEN
   render_albums();
   setUpNail();

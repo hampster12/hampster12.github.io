@@ -22,6 +22,19 @@ img {
 }
 
 .jumbotron{
-  padding:25px;
+  padding:50px;
   background-color: #BFC8D7;
+}
+
+.active{
+  color: #000000;
+  text-decoration: underline;
+}
+
+a{
+  color: #000000;
+}
+
+a:hover {
+  color: #4a4466;
 }

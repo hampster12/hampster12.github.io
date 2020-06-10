@@ -1,13 +1,8 @@
 body {
-    color: #000;
+    color: black;
     margin: 0px;
     padding: 0px;
     font-family: "Times New Roman", Times, serif;
-}
-
-img {
-  width: 250px;
-  height: 50px;
 }
 
 .logo {
@@ -23,7 +18,7 @@ img {
 
 .jumbotron{
   padding:50px;
-  background-color: #BFC8D7;
+  background-color: #C0C8D7;
 }
 
 .active{
@@ -36,5 +31,15 @@ a{
 }
 
 a:hover {
-  color: #4a4466;
+  color: #6A7386;
+}
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background-color: #C0C8D7;
+  color: black;
+  text-align: center;
 }

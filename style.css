@@ -66,15 +66,16 @@ h6{
 }
 
 .logo {
-  width: 250px;
-  height: 50px;
-  background: url("images/hjfLogo.png") no-repeat;
-  background-size: 250px 50px;
+  width: 170px;
+  height: 70px;
+  text-align: left;
+  background: url("images/hjfLogo1.png") no-repeat;
+  background-size: 170px 70px;
 }
 
 .logo:hover {
-  background: url("images/hannahjferryLogo.png") no-repeat;
-  background-size: 250px 50px;
+  background: url("images/hjfLogo2.png") no-repeat;
+  background-size: 170px 70px;
 }
 
 .aboutme{
